@@ -32,9 +32,9 @@ Dump of assembler code for function main:
    0x00000000004004e6 <+0>:     push   rbp
    0x00000000004004e7 <+1>:     mov    rbp,rsp
    0x00000000004004ea <+4>:     mov    eax,0x0
-   **0x00000000004004ef <+9>:     call   0x4003f0 <getpid@plt>**
+   0x00000000004004ef <+9>:     call   0x4003f0 <getpid@plt>
    0x00000000004004f4 <+14>:    mov    eax,0x0
-   **0x00000000004004f9 <+19>:    call   0x4003f0 <getpid@plt>**
+   0x00000000004004f9 <+19>:    call   0x4003f0 <getpid@plt>
    0x00000000004004fe <+24>:    nop
    0x00000000004004ff <+25>:    pop    rbp
    0x0000000000400500 <+26>:    ret    
